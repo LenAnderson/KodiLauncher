@@ -1,0 +1,7 @@
+D:\My\Documents\Visual Studio 2010\Projects\KodiLauncher\KodiLauncher\obj\x86\Release\KodiLauncher.Properties.Resources.resources
+D:\My\Documents\Visual Studio 2010\Projects\KodiLauncher\KodiLauncher\obj\x86\Release\KodiLauncher.csproj.GenerateResource.Cache
+D:\My\Documents\Visual Studio 2010\Projects\KodiLauncher\KodiLauncher\bin\Release\KodiLauncher.exe
+D:\My\Documents\Visual Studio 2010\Projects\KodiLauncher\KodiLauncher\bin\Release\KodiLauncher.pdb
+D:\My\Documents\Visual Studio 2010\Projects\KodiLauncher\KodiLauncher\obj\x86\Release\KodiLauncher.exe
+D:\My\Documents\Visual Studio 2010\Projects\KodiLauncher\KodiLauncher\obj\x86\Release\KodiLauncher.pdb
+D:\My\Documents\Visual Studio 2010\Projects\KodiLauncher\KodiLauncher\bin\Release\KodiLauncher.exe.config
